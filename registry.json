@@ -1,0 +1,74 @@
+{
+  "registry_version": "1.0.0",
+  "last_updated": "2026-04-23T00:00:00Z",
+  "maintainer": "Despair",
+  "repository": "https://github.com/dievour/outbreak-mod-registry",
+
+  "supported_games": [
+    {
+      "id": "re_outbreak_f1",
+      "title": "Resident Evil Outbreak",
+      "short": "FILE #1",
+      "regions": [
+        { "region": "NTSC-U", "serial": "SLUS-20765", "crc": "EF585EDE" },
+        { "region": "NTSC-J", "serial": "SLPM-65438", "crc": "B5E20E37" },
+        { "region": "PAL",    "serial": "SLES-52998", "crc": "5F23EAD4" }
+      ]
+    },
+    {
+      "id": "re_outbreak_f2",
+      "title": "Resident Evil Outbreak File #2",
+      "short": "FILE #2",
+      "regions": [
+        { "region": "NTSC-U", "serial": "SLUS-21319", "crc": "11C75A06" },
+        { "region": "NTSC-J", "serial": "SLPM-65736", "crc": "B80D2D2A" },
+        { "region": "PAL",    "serial": "SLES-53514", "crc": "C32D2819" }
+      ]
+    }
+  ],
+
+  "mods": [
+    {
+      "id": "terror-mod",
+      "name": "Terror Mod",
+      "author": "Despair",
+      "description": "A comprehensive gameplay overhaul for Resident Evil Outbreak FILE #1 & FILE #2. Reworks enemy aggression, scenario pacing, and survivor resource economy.",
+      "tags": ["stage"],
+      "games": ["re_outbreak_f1", "re_outbreak_f2"],
+      "featured": true,
+      "version": "0.0.0",
+      "min_manager_version": "1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/dievour/terror-mod/main/mod.json",
+      "thumbnail": "https://raw.githubusercontent.com/dievour/terror-mod/main/thumbnail.png",
+      "updated_at": "2026-04-23T00:00:00Z"
+    },
+    {
+      "id": "apocalypse-mod",
+      "name": "Apocalypse",
+      "author": "Despair",
+      "description": "Apocalypse Mod for Resident Evil Outbreak FILE #1.",
+      "tags": ["stage"],
+      "games": ["re_outbreak_f1"],
+      "featured": false,
+      "version": "0.0.0",
+      "min_manager_version": "1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/dievour/apocalypse-mod/main/mod.json",
+      "thumbnail": "https://raw.githubusercontent.com/dievour/apocalypse-mod/main/thumbnail.png",
+      "updated_at": "2026-04-23T00:00:00Z"
+    },
+    {
+      "id": "madness-mod",
+      "name": "Madness",
+      "author": "Despair",
+      "description": "Madness Mod for Resident Evil Outbreak FILE #2.",
+      "tags": ["stage"],
+      "games": ["re_outbreak_f2"],
+      "featured": false,
+      "version": "0.0.0",
+      "min_manager_version": "1.0.0",
+      "manifest_url": "https://raw.githubusercontent.com/dievour/madness-mod/main/mod.json",
+      "thumbnail": "https://raw.githubusercontent.com/dievour/madness-mod/main/thumbnail.png",
+      "updated_at": "2026-04-23T00:00:00Z"
+    }
+  ]
+}
