@@ -30,7 +30,7 @@
   "mods": [
     {
       "id": "terror-mod",
-      "aliases": ["terror", "terrormod", "terror mod", "terror_mod"],
+      "aliases": ["terror", "terrormod", "terror mod", "terror_mod", "terror-mod"],
       "name": "Terror Mod",
       "author": "Terror Mod Team",
       "description": "A comprehensive gameplay overhaul for Resident Evil Outbreak FILE #1 & FILE #2. Reworks enemy aggression, scenario pacing, and survivor resource economy.",
@@ -45,10 +45,10 @@
     },
     {
       "id": "apocalypse-mod",
-      "aliases": ["apocalypse", "apocalypsemod", "apocalypse mod"],
+      "aliases": ["apocalypse", "apocalypsemod", "apocalypse mod", "apocalypse-mod"],
       "name": "Apocalypse",
-      "author": "Despair",
-      "description": "Apocalypse Mod for Resident Evil Outbreak FILE #1.",
+      "author": "Machi, SairentoZ7, LLS, Footpowederspray.exe, Despair",
+      "description": "Apocalypse Mod for Resident Evil Outbreak FILE #1 & FILE #2.",
       "tags": ["stage"],
       "games": ["re_outbreak_f1"],
       "featured": false,
@@ -60,9 +60,9 @@
     },
     {
       "id": "madness-mod",
-      "aliases": ["madness", "madnessmod", "madness mod"],
+      "aliases": ["madness", "madnessmod", "madness mod", "madness-mod"],
       "name": "Madness",
-      "author": "Despair",
+      "author": "darllanbr & MilesH",
       "description": "Madness Mod for Resident Evil Outbreak FILE #2.",
       "tags": ["stage"],
       "games": ["re_outbreak_f2"],
