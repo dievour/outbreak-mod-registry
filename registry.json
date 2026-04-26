@@ -36,7 +36,7 @@
       "tags": ["stage"],
       "games": ["re_outbreak_f1", "re_outbreak_f2"],
       "featured": true,
-      "version": "0.0.0",
+      "version": "4.3.6",
       "min_manager_version": "1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/dievour/terror-mod/main/mod.json",
       "thumbnail": "https://raw.githubusercontent.com/dievour/terror-mod/main/thumbnail.png",
