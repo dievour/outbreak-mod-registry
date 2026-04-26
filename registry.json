@@ -1,6 +1,6 @@
 {
   "registry_version": "1.0.0",
-  "last_updated": "2026-04-23T00:00:00Z",
+  "last_updated": "2026-04-26T00:00:00Z",
   "maintainer": "Despair",
   "repository": "https://github.com/dievour/outbreak-mod-registry",
 
@@ -38,11 +38,12 @@
       "tags": ["stage"],
       "games": ["re_outbreak_f1", "re_outbreak_f2"],
       "featured": true,
-      "version": "4.3.6",
+      "version_f1": "4.3.6",
+      "version_f2": "4.6.8",
       "min_manager_version": "1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/dievour/terror-mod/main/mod.json",
       "thumbnail": "https://raw.githubusercontent.com/dievour/terror-mod/main/thumbnail.png",
-      "updated_at": "2026-04-23T00:00:00Z"
+      "updated_at": "2026-04-26T00:00:00Z"
     },
     {
       "id": "apocalypse-mod",
@@ -54,7 +55,8 @@
       "tags": ["stage"],
       "games": ["re_outbreak_f1"],
       "featured": false,
-      "version": "1.1.0",
+      "version_f1": "1.1.0",
+      "version_f2": null,
       "min_manager_version": "1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/dievour/apocalypse-mod/main/mod.json",
       "thumbnail": "https://raw.githubusercontent.com/dievour/apocalypse-mod/main/thumbnail.png",
@@ -70,7 +72,8 @@
       "tags": ["stage"],
       "games": ["re_outbreak_f2"],
       "featured": false,
-      "version": "0.0.0",
+      "version_f1": null,
+      "version_f2": "0.0.0",
       "min_manager_version": "1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/dievour/madness-mod/main/mod.json",
       "thumbnail": "https://raw.githubusercontent.com/dievour/madness-mod/main/thumbnail.png",
