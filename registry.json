@@ -66,18 +66,18 @@
       "id": "madness-mod",
       "aliases": ["madness", "madnessmod", "madness mod", "madness-mod"],
       "name": "Madness",
-      "author": "darllanbr",
-      "contributors": ["MilesH"],
+      "author": ["darllanbr", "MilesH"],
+      "contributors": [],
       "description": "Madness Mod for Resident Evil Outbreak FILE #2.",
       "tags": ["stage"],
       "games": ["re_outbreak_f2"],
       "featured": false,
       "version_f1": null,
-      "version_f2": "0.0.0",
+      "version_f2": "1.0.0",
       "min_manager_version": "1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/dievour/madness-mod/main/mod.json",
       "thumbnail": "https://raw.githubusercontent.com/dievour/madness-mod/main/thumbnail.png",
-      "updated_at": "2026-04-23T00:00:00Z"
+      "updated_at": "2026-04-26T00:00:00Z"
     }
   ]
 }
