@@ -88,6 +88,9 @@ If you would like your mod listed in the registry, your mod must have:
 
 Contact **Despair** to submit your mod for listing.
 
+- **Discord:** `dievour`
+- **OBSRV:** `certaindespair`
+
 ---
 
 ## License
@@ -95,4 +98,3 @@ Contact **Despair** to submit your mod for listing.
 This registry is licensed under the [MIT License](LICENSE).
 
 Resident Evil Outbreak and Resident Evil Outbreak File #2 are properties of **Capcom Co., Ltd.** This project is a fan-made tool and is not affiliated with or endorsed by Capcom.
-
