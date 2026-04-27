@@ -48,7 +48,7 @@
     {
       "id": "apocalypse-mod",
       "aliases": ["apocalypse", "apocalypsemod", "apocalypse mod", "apocalypse-mod"],
-      "name": "Apocalypse",
+      "name": "Apocalypse Mod",
       "author": "Despair",
       "contributors": ["Machi", "SairentoZ7", "LLS", "Footpowderspray.exe"],
       "description": "A comprehensive difficulty-enhancing overhaul for Resident Evil Outbreak FILE #1 & FILE #2. Reworks enemy aggression, scenario pacing, and survivor resource economy.",
@@ -65,7 +65,7 @@
     {
       "id": "madness-mod",
       "aliases": ["madness", "madnessmod", "madness mod", "madness-mod"],
-      "name": "Madness",
+      "name": "Madness Mod",
       "author": ["darllanbr", "MilesH"],
       "contributors": [],
       "description": "A comprehensive gameplay overhaul for Resident Evil Outbreak FILE #2. Reworks scenario pacing, and survivor resource economy.",
