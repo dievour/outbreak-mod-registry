@@ -15,8 +15,8 @@ This repository serves as the backbone of the Outbreak Mod Manager. The launcher
 | Mod | Author | Game | Version |
 |-----|--------|------|---------|
 | **Terror Mod** | Terror Mod Team | FILE #1 & FILE #2 | F1: v4.3.6 / F2: v4.6.8 |
-| **Apocalypse** | Despair | FILE #1 | v1.1.0 |
-| **Madness** | darllanbr & MilesH | FILE #2 | v1.0.0 |
+| **Apocalypse Mod** | Despair | FILE #1 | v1.1.0 |
+| **Madness Mod** | darllanbr & MilesH | FILE #2 | v1.0.0 |
 
 ---
 
